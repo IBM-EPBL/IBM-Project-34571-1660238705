@@ -2,7 +2,7 @@
 
 AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
-Team ID: PNT2022TMID44704
+Team ID: PNT2022TMID10397
 
 Team Lead: Maraka Tharun Kumar Reddy 
 
